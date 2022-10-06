@@ -6,4 +6,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Classic tenzi game in react. I added timer and best score.
+
 
