@@ -1,3 +1,10 @@
+
+
+
+https://github.com/AlinaShtykhUA/Tenzi-game/assets/39155762/bf86a8c0-8717-484e-b54f-7241a3c9e425
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
